@@ -43,5 +43,3 @@ Execute the notebook cells and follow the instructions to start a conversation.
 MIT License
 
 ***
-
-> This project currently has no additional description or topics provided. For more detailed documentation (setup, examples, advanced usage), see the notebook code and comments, or contribute improvements via pull requests.
