@@ -16,11 +16,16 @@ A simple AI-powered chatbot designed to apply the Socratic Questioning Method, h
 
 > Additional dependencies may be required if implementing NLP features (such as spaCy or nltk). Please check the notebook for import statements.
 
+## Libraries Used (Key)
+
+- LangChain (for document loading, text splitting, vector stores, chains, memory, and prompts)
+- HuggingFace Hub (for model authentication and text generation endpoint)
+- FAISS (for efficient similarity search and vector storage)
+
 ## Getting Started
 
 1. **Clone the repository:**
-  git clone https://github.com/J-Rakesh-Naidu/Socratic-Chatbot.git
-
+git clone https://github.com/J-Rakesh-Naidu/Socratic-Chatbot.git
 2. **Install requirements:**  
 Open the `Socratic_Chatbot.ipynb` in Jupyter Notebook. Install any missing Python packages referenced at the top of the notebook.
 
